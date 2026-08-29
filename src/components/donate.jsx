@@ -1,5 +1,7 @@
 import React from 'react';
 
+//this is a new commit
+
 const Donate = () => (
   <>
     <div className="text-center text-4xl my-2">
